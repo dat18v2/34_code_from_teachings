@@ -1,16 +1,18 @@
 public class Account {
 
-         private int accountNumber;
+   private int accountNumber;
 
-         public Account(int accountNumber){
-                  this.accountNumber = accountNumber;
-         }
+   public Account(int accountNumber){
+      this.accountNumber = accountNumber;
+   }
    
    public boolean verifyPin(int cardnumber, int pin){
      
      // TODO: implementer Kode!!!!
      
-     return true;
-   }   
+      return true;
+   } 
+   
+   public void   
 
 }
